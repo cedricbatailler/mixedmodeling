@@ -1,8 +1,8 @@
 Package: mixedmodeling
-Title: Easily Install and Load Select Packages
+Title: Easily Install and Load Mixed Modeling Packages
 Version: 0.0.1
 Authors@R: c(
-    person("Michael Wayne", "Kearney", , email = "mike.wayne.kearney@gmail.com", role = c("aut", "cre"))
+    person("Cédric", "Batailler", , email = "cedric.batailler@gmail.com", role = c("aut", "cre"))
   )
 Description: The 'mixedmodelingverse' is selection of packages designed to be loaded
     in concert. The purpose of this package is to make it easy to install and 
@@ -26,3 +26,5 @@ RoxygenNote: 6.1.0
 Suggests: 
     testthat
 License: MIT + file LICENSE
+URL: https://github.com/cedricbatailler/mixedmodeling
+BugReports: https://github.com/cedricbatailler/mixedmodeling/issues
